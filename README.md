@@ -1,2 +1,4 @@
 # Beijing housing price
  Beijing housing price
+
+The purpose of this study is to develop several statistical models for predicting individual apartment and house prices regarding size, time, and detailed descriptive information, including the study multivariable regression, tree regression, generalized boosted regression model and cluster analysis. Each model will be evaluated with its r-square and the mean square error. The data for the metropolitan areas of Beijing through 2011 to 2017 are analyzed. The model is shown to have a better predictive ability in cluster analysis and being grouped with charactered subset. The result generally suggests the variable of size, constriction time/type and facilities having greater impacts to house and apartment price than other variables.
